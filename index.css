@@ -1,0 +1,28 @@
+legend {
+
+    color: blue;
+}
+table{
+  background: #C9E2DF
+
+}
+body{
+  background: url(fondo.jpg);
+}
+h2, h3,h4 {
+  border: 5px solid #8BADD9;
+  border-radius: 25px;
+  font-family: serif;
+  font-size: 25px;
+  text-align: center;
+}
+h1{
+  text-shadow: 2px 3px 6px violet;
+  font-style: oblique;
+  font-size: 50px;
+  text-align: center;
+}
+h2::selection{
+  color: blue;
+  background: yellow;
+{
